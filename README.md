@@ -4,3 +4,7 @@
 
 "the adventures of a C++ developer learning Rust"
 [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+
+## Rust Story
+* http://www.ciokorea.com/news/112731
+* https://www.codingworldnews.com/224
